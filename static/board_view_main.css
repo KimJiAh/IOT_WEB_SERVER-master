@@ -33,7 +33,7 @@ section#main #comment_box #title_comment {
     left:15px;
 }
 section#main #comment_box textarea {
-    width:515px;
+    width:75%;
     height:78px;
     position:absolute;
     top:15px;
@@ -42,7 +42,7 @@ section#main #comment_box textarea {
 section#main #comment_box #ok_ripple {
     position:absolute;
     top:15px;
-    left:670px;	
+    right:3%;
 }
 section #buttons {
     text-align:right;
